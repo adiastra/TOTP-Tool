@@ -1,0 +1,1 @@
+This is a simple TOTP tool designed to generate a new TOTP token and coresponding base32 and hexadecemal seed as wellas accept the seed as an input and generate the coresponding HOTP token code
